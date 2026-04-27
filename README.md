@@ -1,6 +1,6 @@
 Customer Shopping Behavior — EDA, Comparisons, and Segment Insights (done with Julius + Python)
 
-I recently experimented with a new AI tool for data analysis — Julius (Python in a notebook) — to explore a customer shopping behavior dataset and translate it into business-facing insights.
+I recently experimented with a new AI tool for data analysis - Julius (Python in a notebook) to explore a customer shopping behavior dataset and translate it into business-facing insights.
 
 The dataset included ~3,900 purchase events across 18 features, covering customer attributes, purchase details, commercial levers (discounts, shipping, subscriptions), and behavioral outcomes.
 
